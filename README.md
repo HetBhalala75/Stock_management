@@ -1,4 +1,4 @@
-# firstproject
+# Stock_management
 
 A new Flutter project.
 
